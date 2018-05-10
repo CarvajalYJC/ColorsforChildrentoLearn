@@ -1,4 +1,5 @@
 button{
+	text-align: center
 	-moz-box-shadow:inset 3px -5px 11px -3px #ffffff;
 	-webkit-box-shadow:inset 3px -5px 11px -3px #ffffff;
 	box-shadow:inset 3px -5px 11px -3px #ffffff;

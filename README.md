@@ -1,2 +1,5 @@
-# ColorsforChildrentoLearn-
-Ayuda a tu hijo a aprender los colores.
+
+#CarvajalYJC
+
+Twitter: https://twitter.com/NonBinaryBANG
+Correo: CarvajalYJC@gmail.com

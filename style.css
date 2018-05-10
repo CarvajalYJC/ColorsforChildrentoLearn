@@ -1,17 +1,4 @@
 button{
-	box-shadow:inset 3px -5px 11px -3px #ffffff;
-	background-color:transparent;
-	-webkit-border-top-left-radius:31px;
-	-moz-border-radius-topleft:31px;
-	border-top-left-radius:31px;
-	-webkit-border-top-right-radius:0px;
-	-moz-border-radius-topright:0px;
-	border-top-right-radius:0px;
-	-webkit-border-bottom-right-radius:31px;
-	-moz-border-radius-bottomright:31px;
-	border-bottom-right-radius:31px;
-	-webkit-border-bottom-left-radius:0px;
-	-moz-border-radius-bottomleft:0px;
 	border-bottom-left-radius:0px;
 	text-indent:-2.62px;
 	border:1px solid #ffffff;

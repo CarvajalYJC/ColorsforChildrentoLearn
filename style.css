@@ -1,7 +1,4 @@
 button{
--moz-box-shadow:inset -5px -10px 14px 0px #caefab;
-	-webkit-box-shadow:inset -5px -10px 14px 0px #caefab;
-	box-shadow:inset -5px -10px 14px 0px #caefab;
 	background-color:transparent;
 	-webkit-border-top-left-radius:42px;
 	-moz-border-radius-topleft:42px;

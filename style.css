@@ -1,10 +1,32 @@
 button{
-  border: 1px solid #2e518b; /*anchura, estilo y color borde*/
-  padding: 10px; /*espacio alrededor texto*/
-  background-color: #2e518b; /*color botón*/
-  color: #ffffff; /*color texto*/
-  text-decoration: none; /*decoración texto*/
-  text-transform: uppercase; /*capitalización texto*/
-  font-family: 'Helvetica', sans-serif; /*tipografía texto*/
-  border-radius: 50px; /*bordes redondos*/
+-moz-box-shadow:inset -5px -10px 14px 0px #caefab;
+	-webkit-box-shadow:inset -5px -10px 14px 0px #caefab;
+	box-shadow:inset -5px -10px 14px 0px #caefab;
+	background-color:transparent;
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:0px;
+	-moz-border-radius-topright:0px;
+	border-top-right-radius:0px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:0px;
+	-moz-border-radius-bottomleft:0px;
+	border-bottom-left-radius:0px;
+	text-indent:6px;
+	border:3px solid #268a16;
+	display:inline-block;
+	color:#306108;
+	font-family:Arial;
+	font-size:10px;
+	font-weight:bold;
+	font-style:normal;
+	height:34px;
+	line-height:34px;
+	width:200px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px -2px 1px #aade7c;
 }
